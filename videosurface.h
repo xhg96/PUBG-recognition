@@ -1,0 +1,4 @@
+﻿#ifndef VIDEOSURFACE_H
+#define VIDEOSURFACE_H
+
+#endif // VIDEOSURFACE_H
